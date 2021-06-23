@@ -1,0 +1,42 @@
+7. La metro oggi è fuori uso, 
+ma avevi un appuntamento importante 
+con la tua dolce metà in centro, 
+ti fai forza e trovi una soluzione: 
+raggiungi la tua anima gemella.
+
+//------------------------------------//
+
+1. alza gli occhi e vede il tabellone con scritto metro fuori uso
+2. attiva emisfero destro per non imprecare
+3. attiva emisfero sinitro per trovare un soluzione
+4. muove le mani per prendere il telefonino e conttatere un amico
+5. scorre nella rubrica
+    for(x = 0; x < rubrica.length; x++)
+
+6. mamma => no ; aldo => no; marco => si
+7. digita sulla tastiera per chiamare marco
+8. non c'è linea
+9. decide di uscire dalla metro
+10. muove le gambe per salire i gradini della metro
+11. l'uscita è inondate di pèersone
+12. riattiva emisfero destro per non imprecare let nonImprecare = () => {}
+13. prende l'ascensore per velocizzare l'uscita
+14. è fuori
+15. riprede il telefono per chiamare marco
+        for(x = 0; x < rubrica.length; x++)
+
+16. ragginge telefonicamente marco
+17. marco è dal dsentista
+18. calcola quanti chilometri è lontano dal centro km= 10;
+19. a piedi arriverebbe tardi
+20. controlla la parterzza del prossimo autobus
+21. è in partenza tra 2 minuti
+22. si orienta per trovare la fermata dell'autobus
+23. corre più che può
+24. arriva alla fermata dell'autobus
+25. sali sull'autobus 
+26. scende dall'autobus
+27. identifica la zona
+28. si orienta per trovare la piazza
+29. si domanda è pizza Garibaldi??? if (piazza Garibaldi) {vai dalla tua anima gemella} else {trovane un'altra}
+30. arriva all'appuntamento e saluta l'anima gemella
